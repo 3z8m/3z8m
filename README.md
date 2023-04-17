@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @3z8m
 - 👀 I’m interested in Machine-Learning.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning python and rust.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
